@@ -1,0 +1,36 @@
+[
+    {
+        "category": "Electronics",
+        "products": [
+            {
+                "id": 1,
+                "name": "Smart TV",
+                "price": 200000,
+                "image": "/images/smart-tv.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Bluetooth Speaker",
+                "price": 15000,
+                "image": "/images/bluetooth-speaker.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Fashion",
+        "products": [
+            {
+                "id": 3,
+                "name": "Men’s T-Shirt",
+                "price": 5000,
+                "image": "/images/mens-tshirt.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Women’s Handbag",
+                "price": 12000,
+                "image": "/images/womens-handbag.jpg"
+            }
+        ]
+    }
+]
